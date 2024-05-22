@@ -1,2 +1,6 @@
 Scenario 1: book a flight ticket
 Scenario 2: book a train ticket
+
+
+Scenario 5: book a plane
+Scenario 6: book an auto
