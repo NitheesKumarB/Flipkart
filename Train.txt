@@ -1,4 +1,9 @@
 Scenario 1: book a flight ticket
 Scenario 2: book a train ticket
+//by abc
 Scenario 3: book a ship ticket
 scenario 4: book a bus ticket
+//by nithish
+Scenario 5: book a plane
+Scenario 6: book an auto
+
