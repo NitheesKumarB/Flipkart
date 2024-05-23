@@ -7,3 +7,7 @@ scenario 4: book a bus ticket
 Scenario 5: book a plane
 Scenario 6: book an auto
 
+//by pooja
+Scenario 7 : Cancel all flights
+Scenario 8 : Cancel all hotel
+
